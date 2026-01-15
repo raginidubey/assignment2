@@ -12,4 +12,4 @@ make up
 - GET /metrics
 
 ## Setup Used
-VSCode + ChatGPT
+VSCode 
