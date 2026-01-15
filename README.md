@@ -1,2 +1,15 @@
-# assignment2
-FastAPI-based backend service for secure webhook ingestion with HMAC validation, idempotent message storage in SQLite, pagination, analytics, health checks, metrics, and Dockerized deployment.
+# Lyftr AI Backend Assignment
+
+## Run
+make up
+
+## Endpoints
+- POST /webhook
+- GET /messages
+- GET /stats
+- GET /health/live
+- GET /health/ready
+- GET /metrics
+
+## Setup Used
+VSCode + ChatGPT
